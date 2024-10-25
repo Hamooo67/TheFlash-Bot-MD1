@@ -25,10 +25,10 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `⎔⋅• ━ ╼╃ ⌬〔﷽〕⌬ ╄╾ ━ •⋅⎔
-> TheFlash-Bot-MD
+> TheGOKAR-Bot-MD
 > 〔قـسـم الالــعــاب┊ ˼‏ 🕹˹ 〕↶
 *⎔⋅ ╼╃ ⊰ •﹝⚡﹞• ⊱ ╄╾ ⋅⎔*
-          *فلاش بــ🤖ــوت*
+          *جوڪَر بــ🤖ــوت*
 *⎔⋅ ╼╃ ⊰ •﹝⚡﹞• ⊱ ╄╾ ⋅⎔*
 > 🕹 .عمري
 > 🕹 .كت
@@ -66,7 +66,7 @@ let str = `⎔⋅• ━ ╼╃ ⌬〔﷽〕⌬ ╄╾ ━ •⋅⎔
 > 🕹 .حكمه
 *⎔⋅ ╼╃ ⊰ •﹝⚡﹞• ⊱ ╄╾ ⋅⎔*
 *~⌬ تــ✍️︎ــوقــيــع ↡~*🖋
-*TheFlash-Bot-MD*
+*TheGOKAR-Bot-MD*
 *⎔⋅ ╼╃ ⊰ •﹝⚡﹞• ⊱ ╄╾ ⋅⎔*`.trim()
    const _0x3c7cab = _0x5a1d;
 
