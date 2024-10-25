@@ -33,7 +33,7 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
 ╮───────────────────⟢ـ
 ┆⚡↜ بـريـمـيـوم↞⌊ {user.premiumTime > 0 ? 'مــمـ🔱ـيز' : (isPrems ? 'مــمـ🔱ـيز' : 'عــ🍁ــادي') || ''} ⌉
 ┆⚜️↜ مـــســـتواك↞⌊ {level} ⌉
-┆💫↜ رتـبـتـك↞⌊ {role} ⌉
+┆💫↜ رتـبـتـك↞⌊ 
 ┆🧰↜ الـخـبـرة↞⌊ {exp} ⌉
 ┆💎↜ الـمـاس↞⌊ {limit} ⌉
 ╯───────────────────⟢ـ
